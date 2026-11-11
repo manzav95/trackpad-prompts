@@ -1,0 +1,7 @@
+trackpad-probe
+*.o
+.DS_Store
+.vscode/
+.build/
+*.app
+probe.log
